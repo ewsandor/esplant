@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RFP30N06LE)(type KiCad)(uri ${KIPRJMOD}/RFP30N06LE)(options "")(descr ""))
+)
