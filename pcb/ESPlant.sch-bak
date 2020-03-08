@@ -773,7 +773,7 @@ Power Regulator\n
 Text Notes 10050 4050 0    50   ~ 0
 Pump Interface\n
 Text Notes 8750 4200 0    50   ~ 0
-R9 optional to tie pump power supply to main power supply\n
+R10 optional to tie pump power supply to main power supply\n
 Text Notes 6250 2550 0    50   ~ 0
 Power Connector\n
 Text Notes 5800 3450 0    50   ~ 0
