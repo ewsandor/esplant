@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name RFP30N06LE)(type Legacy)(uri ${KIPRJMOD}/RFP30N06LE/RFP30N06LE.lib)(options "")(descr ""))
+  (lib (name ESPlant-rescue)(type Legacy)(uri ${KIPRJMOD}/ESPlant-rescue.lib)(options "")(descr ""))
 )
